@@ -52,12 +52,12 @@ I design and operate secure, scalable, cloud-native platforms with a strong focu
 
 ## 📌 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
+| Project                                                                              | Description | Stack |
+|--------------------------------------------------------------------------------------|---|---|
 | [k8s-platform-bootstrap](https://github.com/Avinashpatil0609/k8s-platform-bootstrap) | Security-hardened Kubernetes cluster setup with Helm, OPA, and GitOps | Terraform, Helm, K8s |
-| [gcp-infra-automation](https://github.com/Avinashpatil0609/gcp-infra-automation) | Go service wrapping GCP APIs for self-service, compliant infrastructure provisioning | Go, Terraform, GCP |
+| [gcp-infra-automation](https://github.com/Avinashpatil0609/gcp-infra-automation)     | Go service wrapping GCP APIs for self-service, compliant infrastructure provisioning | Go, Terraform, GCP |
 | [cicd-security-pipeline](https://github.com/Avinashpatil0609/cicd-security-pipeline) | GitLab CI pipeline template with SAST, DAST, container scanning, and SIEM alerts | GitLab CI, Python, Docker |
-| [monitoring-stack](https://github.com/Avinashpatil0609/orders-api-platform) | Modular observability setup with Prometheus, Grafana dashboards, and ELK integration | Docker Compose, YAML |
+| [monitoring-stack](https://github.com/Avinashpatil0609/monitoring-stack)             | Modular observability setup with Prometheus, Grafana dashboards, and ELK integration | Docker Compose, YAML |
 
 ---
 
@@ -72,7 +72,7 @@ I design and operate secure, scalable, cloud-native platforms with a strong focu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashPatil0609&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashPatil0609&layout=compact&theme=dark&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
