@@ -55,7 +55,7 @@ I design and operate secure, scalable, cloud-native platforms with a strong focu
 | [k8s-platform-bootstrap](#) | Security-hardened Kubernetes cluster setup with Helm, OPA, and GitOps | Terraform, Helm, K8s |
 | [gcp-infra-automation](#) | Go service wrapping GCP APIs for self-service, compliant infrastructure provisioning | Go, Terraform, GCP |
 | [cicd-security-pipeline](#) | GitLab CI pipeline template with SAST, DAST, container scanning, and SIEM alerts | GitLab CI, Python, Docker |
-| [monitoring-stack](#) | Modular observability setup with Prometheus, Grafana dashboards, and ELK integration | Docker Compose, YAML |
+| [monitoring-stack](https://github.com/Avinashpatil0609/orders-api-platform) | Modular observability setup with Prometheus, Grafana dashboards, and ELK integration | Docker Compose, YAML |
 
 ---
 
