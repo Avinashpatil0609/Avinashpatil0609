@@ -4,6 +4,8 @@
 
 I design and operate secure, scalable, cloud-native platforms with a strong focus on CI/CD automation, Kubernetes, DevSecOps, and infrastructure reliability. 10+ years building things that actually work in production.
 
+> 💼 Most of my production work is in private repositories (client engagements).
+> Feel free to reach out for a technical discussion about any of the projects listed below.
 ---
 
 ## 🔧 What I Work With
