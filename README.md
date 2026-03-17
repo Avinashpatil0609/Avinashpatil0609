@@ -57,8 +57,6 @@ I design and operate secure, scalable, cloud-native platforms with a strong focu
 | [cicd-security-pipeline](#) | GitLab CI pipeline template with SAST, DAST, container scanning, and SIEM alerts | GitLab CI, Python, Docker |
 | [monitoring-stack](#) | Modular observability setup with Prometheus, Grafana dashboards, and ELK integration | Docker Compose, YAML |
 
-> ⚠️ Replace `#` links above with your actual repo URLs once created
-
 ---
 
 ## 📈 GitHub Stats
