@@ -55,16 +55,33 @@ I design and operate secure, scalable, cloud-native platforms with a strong focu
 | Project | Description | Stack |
 |---|---|---|
 | [k8s-platform-bootstrap](https://github.com/Avinashpatil0609/k8s-platform-bootstrap) | Security-hardened Kubernetes cluster setup with Helm, OPA, and GitOps | Terraform, Helm, K8s |
-| [gcp-infra-automation](#) | Go service wrapping GCP APIs for self-service, compliant infrastructure provisioning | Go, Terraform, GCP |
-| [cicd-security-pipeline](#) | GitLab CI pipeline template with SAST, DAST, container scanning, and SIEM alerts | GitLab CI, Python, Docker |
+| [gcp-infra-automation](https://github.com/Avinashpatil0609/gcp-infra-automation) | Go service wrapping GCP APIs for self-service, compliant infrastructure provisioning | Go, Terraform, GCP |
+| [cicd-security-pipeline](https://github.com/Avinashpatil0609/cicd-security-pipeline) | GitLab CI pipeline template with SAST, DAST, container scanning, and SIEM alerts | GitLab CI, Python, Docker |
 | [monitoring-stack](https://github.com/Avinashpatil0609/orders-api-platform) | Modular observability setup with Prometheus, Grafana dashboards, and ELK integration | Docker Compose, YAML |
 
 ---
 
 ## 📈 GitHub Stats
 
-![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinashPatil0609&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashPatil0609&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AvinashPatil0609&show_icons=true&theme=dark&hide_border=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&include_all_commits=true&count_private=true" alt="Avinash's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvinashPatil0609&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashPatil0609&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AvinashPatil0609&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashPatil0609&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
 
 ---
